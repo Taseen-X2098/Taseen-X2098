@@ -15,12 +15,6 @@ I am a Full-Stack Developer specializing in **Next.js**, and **Automation**. Cur
 - **Backend**: Nextjs, PostgreSQL
 - **Tools**: Git, Vercel, Postman
 
-### 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 - **Email**: taseen2098@gmail.com
 - **Portfolio**: [Portfolio](https://portfolio-six-plum-71.vercel.app/)
