@@ -18,4 +18,3 @@ I am a Full-Stack Developer specializing in **Next.js**, and **Automation**. Cur
 ### 📫 Let's Connect
 - **Email**: taseen2098@gmail.com
 - **Portfolio**: [Portfolio](https://portfolio-six-plum-71.vercel.app/)
-- **Note**: My LinkedIn is currently undergoing a technical migration. Please reach out via Email or GitHub for the fastest response!
